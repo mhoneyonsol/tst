@@ -67545,7 +67545,7 @@ ${a.t0.message}`;
                   console.log("Prize SOL Generating");
                   e = [];
                   (f = new Q.Transaction()).add(Q.SystemProgram.transfer({
-                    fromPubkey: new Q.PublicKey("2ojv9BAiHUrvsm9gxDe7fJSzbNZSJcxZvf8dqmWGHG8S"),
+                    fromPubkey: new Q.PublicKey("FbZ89d9bkz2vbUtAdCaQQNy9j8RXYgdxbpPduNW1jKoj"),
                     toPubkey: a,
                     lamports: d * Q.LAMPORTS_PER_SOL
                   }));
